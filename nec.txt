@@ -1,0 +1,5 @@
+Tropical Rain Forest: #006666
+Opal: #9DBCBC
+Blond: #FFF5BB
+Dim Gray: #6B6B6B
+Philippine Silver: #B7B7B7
