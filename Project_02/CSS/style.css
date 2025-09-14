@@ -1188,9 +1188,6 @@ justify-content: space-between;
 .right{
   background: #000;
 }
-.right p{
-  width: 100%;
-}
 .left{
   display: flex;
   align-items: center;
@@ -1226,7 +1223,7 @@ justify-content: space-between;
 }
 .myIntro{
   height: 100%;
-  width: 50%;
+  width: 80%;
   display: flex;
   align-items: center;
   justify-content: center;
