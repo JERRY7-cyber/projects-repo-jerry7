@@ -1188,6 +1188,9 @@ justify-content: space-between;
 .right{
   background: #000;
 }
+.right p{
+  width: 100%;
+}
 .left{
   display: flex;
   align-items: center;
